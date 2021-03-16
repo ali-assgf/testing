@@ -10,3 +10,5 @@ ini commit baru di dev
 oke
 
 ada perubahan di master nih.. pull ke dev yaa
+
+oke sudah di pull ke dev
